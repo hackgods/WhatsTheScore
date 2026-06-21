@@ -1,5 +1,5 @@
 {
-  "name": "wts_scaffold",
+  "name": "whats-the-score",
   "version": "1.0.0",
   "main": "index.ts",
   "dependencies": {

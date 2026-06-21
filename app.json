@@ -1,15 +1,17 @@
 {
   "expo": {
-    "name": "wts_scaffold",
-    "slug": "wts_scaffold",
+    "name": "What's The Score",
+    "slug": "whats-the-score",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "automatic",
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.whatsthescore.app"
     },
     "android": {
+      "package": "com.whatsthescore.app",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/android-icon-foreground.png",
